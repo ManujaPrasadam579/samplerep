@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Manuja Prasadam</h1>
 
 🔹 Machine Learning Engineer (OPT)  
-🔹 ML Intern @ Vosyn  
-🔹 Graduate Assistant (Data Visualization)  
+🔹 Jr. Data Analyst at Vosyn  
+🔹 Data Analyst at University 
 🔹 Completed IBM Data Science Professional Certificate  
 
 ## 🚀 Skills
@@ -20,5 +20,5 @@
 👉 More projects coming soon!
 
 ## 🌐 Connect with Me
-📩 Email : manuja272@gmail.com  
+📩 Email : manujaprasadam5@gmail.com  
 🔗 LinkedIn : https://www.linkedin.com/in/manuja-prasadam-564a33214/
